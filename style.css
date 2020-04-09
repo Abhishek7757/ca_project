@@ -1,0 +1,11 @@
+body{
+    background: #fafafa;
+}
+.form-wrapper{
+    border-radius: 4px;
+    background: #ffffff;
+    padding: 10px 12px;
+    max-width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
